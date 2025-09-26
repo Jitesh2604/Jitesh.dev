@@ -66,4 +66,4 @@ Copy code
 
 This version matches your repo name (`Jitesh.dev`) and has a **professional developer vibe**.  
 
-👉 Do you want me to also add **cool GitHub badges & stats** (like `![React](https://img.shields
+👉 Do you want me to also add **cool GitHub badges & stats** (like `![[React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)` and GitHub streak stats) to make the README more flashy for recruiters?
