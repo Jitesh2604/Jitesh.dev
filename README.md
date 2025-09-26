@@ -1,16 +1,69 @@
-# React + Vite
+# 🌐 Jitesh.dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Jitesh.dev** — my personal portfolio website 💻  
+A place where I showcase my skills, projects, and journey as a developer.  
 
-Currently, two official plugins are available:
+Built with **React + Vite + Tailwind CSS**, designed to be **fast, modern, and responsive**.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
+- 🎨 Sleek, modern design powered by Tailwind CSS  
+- 🌙 Dark/Light mode for comfortable viewing  
+- 📱 Fully responsive — works across devices  
+- ⚡ Optimized with Vite for super-fast builds  
+- 🛠️ Reusable, modular React components  
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **Framework:** React (with Vite)  
+- **Styling:** Tailwind CSS + custom theme tokens  
+- **Hosting:** Vercel (fast global CDN)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📂 Projects Highlighted
+### 🎬 Movies Rating Site
+- **Stack:** React, Node.js, RESTful APIs  
+- Users can explore and rate movies.  
+- 🔗 [Live Demo](https://movies-rating-site.vercel.app)  
+- 💻 [GitHub Repo](https://github.com/Jitesh2604/Movies_Rating_Site)  
+
+### ✅ Task Manager
+- **Stack:** Next.js, Express.js, MongoDB  
+- A full-stack app to manage daily tasks.  
+- 🔗 [Live Demo](https://task-manager-rust-ten.vercel.app)  
+- 💻 [GitHub Repo](https://github.com/Jitesh2604/Task_Manager)  
+
+---
+
+## 🚀 Getting Started
+
+Clone the repo and run locally:
+
+```bash
+git clone https://github.com/Jitesh2604/Jitesh.dev.git
+cd Jitesh.dev
+npm install
+npm run dev
+Open http://localhost:5173 in your browser.
+
+📸 Screenshots
+Add screenshots or GIFs of your portfolio UI here for extra ✨
+
+📬 Contact Me
+💼 LinkedIn
+
+📧 Email: jitesh@example.com
+
+⭐ If you like this portfolio, consider giving it a star — it really motivates me!
+
+yaml
+Copy code
+
+---
+
+This version matches your repo name (`Jitesh.dev`) and has a **professional developer vibe**.  
+
+👉 Do you want me to also add **cool GitHub badges & stats** (like `![React](https://img.shields
