@@ -1,15 +1,25 @@
-import './App.css'
+import Nav from "./components/layout/Nav";
+import Hero from "./components/sections/Hero";
+import Skills from "./components/sections/Skills";
+import Projects from "./components/sections/Projects";
+import Contact from "./components/sections/Contact";
+import Footer from "./components/layout/Footer";
+import CustomCursor from "./components/common/CustomCursor";
 
 function App() {
-  
-
   return (
-    <>
-      <h1 className="text-4xl font-bold text-blue-600 underline">
-        Tailwind is working 🚀
-      </h1>
-    </>
-  )
-}
+    <div className="bg-black text-gray-100 min-h-screen font-inter">
+      <CustomCursor />
+        <Nav />
+        <main>
+          <Hero />
+          <Skills />
+          <Projects />
+          <Contact />
+        </main>
+        <Footer />
+    </div>
+  );
+};
 
 export default App
