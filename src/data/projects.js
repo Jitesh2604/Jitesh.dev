@@ -33,12 +33,4 @@ export const projects = [
     liveUrl: "#",
     githubUrl: "#",
   },
-  {
-    title: "Data Dashboard",
-    description: "Analytics dashboard using Recharts, role-based UI, CSV import.",
-    tech: ["React", "Recharts", "CSV Import"],
-    icon: Monitor,
-    liveUrl: "#",
-    githubUrl: "#",
-  },
 ];
