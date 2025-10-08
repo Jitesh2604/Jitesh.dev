@@ -1,6 +1,6 @@
 # 🚀 Jitesh.dev — My Personal Portfolio Website
 
-![Portfolio Banner](./Public//Profile.png)  
+![Portfolio Banner](public/Profile.jpg)  
 
 > A modern, minimal & sleek **developer portfolio** built using ⚡ React + 🌀 Tailwind CSS — fully responsive and optimized for performance.
 
@@ -92,16 +92,16 @@ This project is deployed using **[Vercel](https://vercel.com)**.
 
 | 🖼️ Hero Section | 🧑‍💻 Skills | 💼 Projects |
 |-----------------|-------------|-------------|
-| ![Hero](./Public/Hero.jpg) | ![Skills](./Public//Skills.jpg) | ![Projects](./Public/Project.jpg) |
+| ![Hero](public/Hero.jpg) | ![Skills](public/Skills.jpg) | ![Projects](public/Project.jpg) |
 
 ---
 
 ## 📬 Contact Me
 
 📧 **Email:** your-email@example.com  
-🌐 **Portfolio:** [https://jitesh.dev](https://jitesh-dev-seven.vercel.app/ )  
-💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/jitesh-pal-1484a7236/)  
-🐦 **Gmail:** [@yourhandle](Jiteshpal2604@gmail.com)
+🌐 **Portfolio:** [Jitesh.dev](https://jitesh-dev-seven.vercel.app/ )  
+💼 **LinkedIn:** [Jitesh Pal](https://www.linkedin.com/in/jitesh-pal-1484a7236/)  
+🐦 **Gmail:** [Jitesh Pal](Jiteshpal2604@gmail.com)
 
 ---
 
