@@ -7,8 +7,12 @@ const ContactForm = () => {
   const sendEmail = (e) => {
     e.preventDefault();
     emailjs
-      .sendForm("service_4m2h1rf", "template_nbl711h", e.target, "CX5jPMzB4R4dG5qiB")
-      .then(() => setStatus("Message sent!"), () => setStatus("Error sending message."));
+      .sendForm("service_wircr8d", "template_ndaou6h", e.target, "CX5jPMzB4R4dG5qiB")
+      .then(() => setStatus("Message sent!"), 
+      (err) => {
+        console.log("Error sending message.", err)
+        setStatus("Error sending message.")
+      });
   };
 
   return (
