@@ -24,7 +24,7 @@ export default function About() {
         >
           <div className="absolute -inset-1.5 rounded-full bg-gradient-to-r from-cyan-500 to-purple-600 opacity-75 blur transition duration-1000 group-hover:opacity-100 group-hover:duration-200"></div>
           <img
-            src= "src/assats/image4.JPG"
+            src= "/image4.JPG"
             alt="Jitesh Pal"
             className="relative h-48 w-48 rounded-full border-4 border-slate-800 object-cover shadow-xl md:h-56 md:w-56"
           />
