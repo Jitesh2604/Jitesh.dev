@@ -135,3 +135,7 @@
   .hover-glow { @apply transition-shadow duration-300; }
   .hover-scale { @apply transition-transform duration-300; }
 }
+
+
+
+
