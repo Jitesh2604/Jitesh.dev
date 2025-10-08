@@ -1,6 +1,6 @@
 # 🚀 Jitesh.dev — My Personal Portfolio Website
 
-![Portfolio Banner](public/Profile.jpg)  
+![Portfolio Banner](public/Profile.png)  
 
 > A modern, minimal & sleek **developer portfolio** built using ⚡ React + 🌀 Tailwind CSS — fully responsive and optimized for performance.
 
