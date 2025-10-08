@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+// import Image from "";
 
 export default function About() {
   return (
@@ -24,7 +25,7 @@ export default function About() {
         >
           <div className="absolute -inset-1.5 rounded-full bg-gradient-to-r from-cyan-500 to-purple-600 opacity-75 blur transition duration-1000 group-hover:opacity-100 group-hover:duration-200"></div>
           <img
-            src="/profile.jpg" // 👉 replace with your photo path
+            src= "src/assats/image4.JPG"// 👉 replace with your photo path
             alt="Jitesh Pal"
             className="relative h-48 w-48 rounded-full border-4 border-slate-800 object-cover shadow-xl md:h-56 md:w-56"
           />
