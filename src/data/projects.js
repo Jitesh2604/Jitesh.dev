@@ -1,4 +1,4 @@
-import { Monitor, ShoppingCart, Database, Star } from "lucide-react";
+import { Monitor, ShoppingCart, Database, Star, Brain, Gamepad } from "lucide-react";
 
 export const projects = [
   {
@@ -8,6 +8,14 @@ export const projects = [
     icon: Star,
     liveUrl: "https://movies-rating-site.vercel.app",
     githubUrl: "https://github.com/Jitesh2604/Movies_Rating_Site",
+  },
+  {
+    title: "Brain Teaser",
+    description: "AI-powered Quiz App built with React, Express, and MongoDB featuring category selection, levels, ranking, and dynamic question generation.",
+    tech: ["React", "Express", "MongoDB", "Gemini AI"],
+    icon: Gamepad,
+    liveUrl: "https://quiz-app-azure-rho.vercel.app",
+    githubUrl: "https://github.com/Jitesh2604/Quiz_App",
   },
   {
     title: "Task Manager",
