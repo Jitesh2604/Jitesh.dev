@@ -32,7 +32,7 @@ const Hero = () => {
           Contact Me
         </a>
         <a
-          href="/JiteshPalFullStackResume.pdf" // Place your CV in the public folder
+          href="public/JiteshPalFullStackResume.pdf" 
           download="Jitesh_CV.pdf"
           className="px-6 py-3 bg-gray-800 text-purple-400 rounded-xl border border-gray-600 hover:bg-gray-700"
         >

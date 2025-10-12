@@ -98,10 +98,9 @@ This project is deployed using **[Vercel](https://vercel.com)**.
 
 ## 📬 Contact Me
 
-📧 **Email:** your-email@example.com  
+📧 **Email:** Jiteshpal2604@gmail.com  
 🌐 **Portfolio:** [Jitesh.dev](https://jitesh-dev-seven.vercel.app/ )  
 💼 **LinkedIn:** [Jitesh Pal](https://www.linkedin.com/in/jitesh-pal-1484a7236/)  
-🐦 **Gmail:** [Jitesh Pal](Jiteshpal2604@gmail.com)
 
 ---
 
